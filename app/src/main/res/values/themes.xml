@@ -1,8 +1,7 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
     <!-- Base application theme. -->
-    <style name="Base.Theme.TenantManagementSystem" parent="Theme.Material3.DayNight.NoActionBar">
-        <!-- Customize your light theme here. -->
-        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    <style name="Base.Theme.TenantManagementSystem" parent="Theme.Material3.DayNight">
+        <!-- Customize your theme here if you want -->
     </style>
 
     <style name="Theme.TenantManagementSystem" parent="Base.Theme.TenantManagementSystem" />
