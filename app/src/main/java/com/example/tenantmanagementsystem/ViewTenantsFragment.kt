@@ -29,7 +29,7 @@ class ViewTenantsFragment : Fragment() {
     override fun onViewCreated(view: View, savedInstanceState: Bundle?) {
         super.onViewCreated(view, savedInstanceState)
 
-        val newTenant = args.tenant
+        val newTenant = args.newTenant
 
         if (newTenant != null) {
             binding.tenant = newTenant
